@@ -41,7 +41,7 @@ const MyTable = new Table({
   sortKey: 'sk',
 
   // Add the DocumentClient
-  DocumentClient
+  DocumentClient: DocumentClient
 })
 ```
 
